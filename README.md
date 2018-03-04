@@ -11,7 +11,7 @@ Let’s decentralize Cryptocurrency Exchanges and secure it with BarterDEX
 ## Electron app (Node.js)
 
 ```shell
-git clone git@github.com:buildog/BarterDEX.git
+git clone git@github.com:pablotrotem/BarterDEX.git
 cd BarterDEX
 npm install
 ```
