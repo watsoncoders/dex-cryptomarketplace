@@ -1,17 +1,16 @@
 
-Let’s decentralize Cryptocurrency Exchanges and secure it with BarterDEX
-
+Let’s decentralize Cryptocurrency Exchanges and secure it with dex-cryptomarketplace
 
 ## Downloads
 
-[Release page](https://github.com/buildog/BarterDEX/releases)
+[Release page](https://github.com/pablorotem/dex-cryptomarketplace/releases)
 
 
 ## Electron app (Node.js)
 
 ```shell
-git clone git@github.com:pablotrotem/BarterDEX.git
-cd BarterDEX
+git clone git@https://github.com/pablorotem/dex-cryptomarketplace.git
+cd dex-cryptomarketplace
 npm install
 ```
 
