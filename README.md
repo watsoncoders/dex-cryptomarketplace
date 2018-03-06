@@ -1,4 +1,3 @@
-![alt text](https://github.com/buildog/BarterDEX/raw/master/resources/github/logoWithPunchline.png)
 
 Let’s decentralize Cryptocurrency Exchanges and secure it with BarterDEX
 
